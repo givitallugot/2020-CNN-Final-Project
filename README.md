@@ -1,6 +1,6 @@
 # 2020-COVID19-Classification-Project
 
-2020-2 자료분석특론II 수업에서 [Kaggle COVID-19 CT Image][kaggle-link]의 분류를 딥러닝으로 수행한 Final Project
+2020-2 자료분석특론II 수업에서 [Kaggle COVID-19 CT Image][kaggle-link]의 분류를 CNN으로 수행한 Final Project
 
 ![image-1](https://github.com/givitallugot/2020-COVID19-Classification-Project/blob/main/Image/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B39.jpeg)
 
