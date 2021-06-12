@@ -2,8 +2,7 @@
 
 2020-2 자료분석특론II 수업에서 [Kaggle COVID-19 CT Image][kaggle-link]의 분류를 딥러닝으로 수행한 Final Project
 
-![image-1](./Image/슬라이드10.jpeg)
-
+![image-1](./Image/슬라이드9.jpeg)
 
 [kaggle-link]: https://www.kaggle.com/engesraahassan/covid19-ct-image
 
